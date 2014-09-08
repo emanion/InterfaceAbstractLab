@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=courseName\ courseNumber
+comment0.target=AdvancedJavaCourse(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getCourseNumber()
+comment2.params=courseNumber
+comment2.target=void\ setCourseNumber(java.lang.String)
+comment3.params=
+comment3.target=double\ getCredits()
+comment4.params=credits
+comment4.target=void\ setCredits(double)
+comment5.params=
+comment5.target=java.lang.String\ getPrerequisites()
+comment6.params=prerequisites
+comment6.target=void\ setPrerequisites(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getCourseName()
+comment8.params=courseName
+comment8.target=void\ setCourseName(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
